@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 About this repo
 ===============
 
@@ -53,3 +54,7 @@ Disclaimer
 
 I've written this playbooks in a "works for me" fashion :). It's also the first
 time I use Ansible and I fear that I've not followed the best practices.
+=======
+CursoRoR
+========
+>>>>>>> f8446474b357d91fa8856294a979e5d6282016dc
